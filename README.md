@@ -2,6 +2,8 @@ This is a transaction that sequentially creates two bundles. The first bundle cr
 Our bot interacts directly with the pumpfun contract using cutting edge technologies such as jito-bundle, address lookup tables, version transactions, and pumpfun IDL. 
 As you know, jito-bundle is a very good tool to protect against mev sandwich attacks.
 
+The attached photo is just a test transaction history, I can show you the actual transaction history if you want.
+
 You can contack me through telegram, discord, email and whatsapp and can find contact info in my profile.
 
 
