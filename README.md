@@ -1,4 +1,4 @@
-This is one notable of our project, which is Pumpfun and Raydium volume bot.
+One of my notable projects is Pumpfun and Raydium volume bot.
 Our bot interacts directly with the Pumpfun and Raydium using cutting edge technologies such as jito-bundle, address lookup tables, version transactions,  pumpfun IDL and Raydium. 
 As you know, jito-bundle is a very good tool to protect against mev sandwich attacks.
 
